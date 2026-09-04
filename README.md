@@ -89,11 +89,11 @@ https://portfolio-six-liard-61.vercel.app/
 
 ---
 
-##  Most Used Languages
+<!--##  Most Used Languages
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakashmore&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
