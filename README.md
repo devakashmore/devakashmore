@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Akash More
+#  Hi, I'm Akash More
 
-### 💻 Full Stack Developer | Java Developer
+###  Full Stack Developer | Java Developer
 
 I'm a passionate developer who enjoys building modern, scalable, and user-friendly applications.
 
@@ -8,20 +8,20 @@ I love working across the **frontend and backend**, learning new technologies, a
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Full Stack Developer
-* ☕ Strong interest in **Java & Backend Development**
-* ⚛️ Building modern web applications with **React & Next.js**
-* 🛠️ Working with **Node.js, Express.js & REST APIs**
-* 🗄️ Experience with **PostgreSQL, MongoDB & Prisma**
-* 🔐 Interested in authentication, APIs and backend architecture
-* 🌱 Continuously learning and improving my development skills
-* 🚀 Building projects that solve real-world problems
+*  Full Stack Developer
+*  Strong interest in **Java & Backend Development**
+*  Building modern web applications with **React & Next.js**
+*  Working with **Node.js, Express.js & REST APIs**
+*  Experience with **PostgreSQL, MongoDB & Prisma**
+*  Interested in authentication, APIs and backend architecture
+*  Continuously learning and improving my development skills
+*  Building projects that solve real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -55,9 +55,9 @@ I love working across the **frontend and backend**, learning new technologies, a
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 DevFlow AI
+###  DevFlow AI
 
 A developer-focused AI platform built with modern full-stack technologies.
 
@@ -77,7 +77,7 @@ https://portfolio-six-liard-61.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devakashmore&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -89,7 +89,7 @@ https://portfolio-six-liard-61.vercel.app/
 
 ---
 
-## 📈 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakashmore&layout=compact&theme=tokyonight&hide_border=true" />
@@ -111,20 +111,20 @@ https://portfolio-six-liard-61.vercel.app/
 
 ---
 
-## 💡 What I'm Currently Working On
+##  What I'm Currently Working On
 
 ```text
-Building 🚀
-Learning 📚
-Improving 💻
-Creating 🌎
+Building 
+Learning 
+Improving 
+Creating 
 ```
 
 I'm always interested in learning new technologies, building interesting projects, and collaborating with other developers.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <p align="center">
   <b>Let's build something amazing together 🚀</b>
