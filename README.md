@@ -121,7 +121,7 @@ Creating
 ```
 
 I'm always interested in learning new technologies, building interesting projects, and collaborating with other developers.
-
+Trying to be better.
 ---
 
 ###  Thanks for visiting my profile!
@@ -133,4 +133,3 @@ I'm always interested in learning new technologies, building interesting project
 <p align="center">
   <i>From ideas to production — one project at a time.</i>
 </p>
-
